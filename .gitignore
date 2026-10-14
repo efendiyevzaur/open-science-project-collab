@@ -1,3 +1,7 @@
+# general file types to ignore
+*.png
+outputs/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
