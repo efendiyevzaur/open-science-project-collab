@@ -1,0 +1,303 @@
+patient_id,sex,age_at_surgery_years,age_group,age_at_epilepsy_onset_years,epilepsy_duration_years,monthly_seizure_frequency,epilepsy_localization,laterality,pathology,mri_performed,mri_lesion_detected,mri_localization_result,scalp_eeg_performed,scalp_eeg_localization_result,pet_performed,pet_localization_result,meg_performed,meg_localization_result,intracranial_eeg_performed,intracranial_eeg_localization_result,modalities_performed_count,multimodal_concordance_count,surgery_type,engel_outcome_1yr
+SYN-0001,Female,20,Adult,8,12,2.2,Temporal,Left,Focal cortical dysplasia,Yes,Yes,Concordant,Yes,Non-localizing,Yes,Concordant,No,Not performed,No,Not performed,3,2,Temporal resection,II
+SYN-0002,Female,24,Adult,16,8,9.0,Hemispheric/multilobar,Right,Focal cortical dysplasia,Yes,Yes,Concordant,Yes,Non-localizing,Yes,Concordant,Yes,Concordant,Yes,Concordant,5,4,Lesionectomy,I
+SYN-0003,Female,66,Adult,31,35,2.2,Temporal,Right,No definitive pathology,Yes,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,No,Not performed,2,2,Temporal resection,I
+SYN-0004,Female,28,Adult,10,18,2.0,Temporal,Right,No definitive pathology,Yes,No,Concordant,Yes,Concordant,Yes,Concordant,Yes,Discordant,No,Not performed,4,3,Temporal resection,III
+SYN-0005,Male,39,Adult,9,30,2.0,Temporal,Right,Hippocampal sclerosis,Yes,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,No,Not performed,2,2,Temporal resection,I
+SYN-0006,Female,7,Pediatric,0,7,5.7,Temporal,Left,Focal cortical dysplasia,Yes,Yes,Discordant,Yes,Concordant,Yes,Concordant,Yes,Concordant,No,Not performed,4,3,Lesionectomy,I
+SYN-0007,Female,46,Adult,22,24,1.2,Frontal,Left,Focal cortical dysplasia,Yes,Yes,Concordant,Yes,Discordant,No,Not performed,No,Not performed,No,Not performed,2,1,Extratemporal resection,I
+SYN-0008,Male,55,Adult,26,29,0.8,Frontal,Right,No definitive pathology,Yes,No,Concordant,Yes,Concordant,No,Not performed,No,Not performed,Yes,Discordant,3,2,Lesionectomy,II
+SYN-0009,Male,13,Pediatric,2,11,21.5,Hemispheric/multilobar,Left,No definitive pathology,Yes,No,Concordant,Yes,Discordant,Yes,Concordant,No,Not performed,Yes,Concordant,4,3,Extratemporal resection,IV
+SYN-0010,Male,3,Pediatric,2,1,2.9,Frontal,Right,Gliosis/other,Yes,No,Non-localizing,Yes,Concordant,Yes,,Yes,Discordant,Yes,Concordant,5,3,Lesionectomy,I
+SYN-0011,Male,13,Pediatric,4,9,7.9,Frontal,Left,Gliosis/other,Yes,No,Non-localizing,Yes,Non-localizing,Yes,Non-localizing,Yes,Concordant,No,Not performed,4,1,Extratemporal resection,I
+SYN-0012,Male,25,Adult,6,19,3.6,Temporal,Left,Hippocampal sclerosis,Yes,Yes,Concordant,Yes,Non-localizing,Yes,Concordant,No,Not performed,No,Not performed,3,2,Temporal resection,I
+SYN-0013,Male,4,Pediatric,3,1,4.2,Parietal/occipital,Right,Focal cortical dysplasia,Yes,Yes,Concordant,Yes,Non-localizing,Yes,Concordant,Yes,Concordant,No,Not performed,4,3,Lesionectomy,I
+SYN-0014,Male,17,Pediatric,6,11,11.5,Temporal,Right,Focal cortical dysplasia,Yes,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,No,Not performed,2,2,Temporal resection,III
+SYN-0015,Female,34,Adult,5,29,4.5,Temporal,Left,Focal cortical dysplasia,Yes,Yes,Discordant,Yes,Discordant,Yes,Concordant,No,Not performed,No,Not performed,3,1,Lesionectomy,III
+SYN-0016,Female,33,Adult,16,17,5.4,Temporal,Right,Focal cortical dysplasia,Yes,No,Non-localizing,Yes,Concordant,Yes,Concordant,No,Not performed,Yes,Concordant,4,3,Lesionectomy,III
+SYN-0017,Female,28,Adult,18,10,2.9,Temporal,Right,Hippocampal sclerosis,Yes,Yes,Concordant,Yes,Discordant,Yes,Discordant,Yes,Concordant,Yes,Concordant,5,3,Temporal resection,I
+SYN-0018,Male,6,Pediatric,4,2,5.2,Temporal,Bilateral,Focal cortical dysplasia,Yes,Yes,Discordant,Yes,Non-localizing,Yes,Non-localizing,Yes,Concordant,No,Not performed,4,1,Laser ablation,II
+SYN-0019,Male,65,Adult,8,57,7.2,Frontal,Left,Vascular malformation,Yes,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,No,Not performed,2,2,Lesionectomy,I
+SYN-0020,Male,20,Adult,4,16,12.6,Frontal,Right,Vascular malformation,Yes,Yes,Concordant,Yes,Concordant,Yes,Discordant,No,Not performed,No,Not performed,3,2,Laser ablation,I
+SYN-0021,Female,45,Adult,21,24,6.1,Temporal,Right,Gliosis/other,Yes,No,Non-localizing,Yes,Non-localizing,No,Not performed,No,Not performed,No,Not performed,2,0,Temporal resection,I
+SYN-0022,Female,12,Pediatric,2,10,3.6,Frontal,Left,Focal cortical dysplasia,Yes,Yes,Concordant,Yes,Discordant,Yes,Concordant,Yes,Concordant,No,Not performed,4,3,Laser ablation,I
+SYN-0023,Female,36,Adult,14,22,1.8,Temporal,Right,Hippocampal sclerosis,Yes,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,No,Not performed,2,2,Temporal resection,I
+SYN-0024,Female,29,Adult,7,22,1.7,Temporal,Left,Hippocampal sclerosis,Yes,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,No,Not performed,2,2,Temporal resection,I
+SYN-0025,Female,27,Adult,20,7,4.6,Frontal,Right,No definitive pathology,Yes,No,Non-localizing,Yes,Non-localizing,Yes,Discordant,Yes,Concordant,Yes,Discordant,5,1,Laser ablation,III
+SYN-0026,Female,15,Pediatric,13,2,17.3,Hemispheric/multilobar,Left,Gliosis/other,Yes,No,Concordant,Yes,Non-localizing,Yes,Non-localizing,Yes,Concordant,No,Not performed,4,2,Hemispherotomy,IV
+SYN-0027,Female,2,Pediatric,2,0,0.7,Temporal,Bilateral,Focal cortical dysplasia,Yes,Yes,Concordant,Yes,Discordant,Yes,Concordant,Yes,Discordant,Yes,Concordant,5,3,Temporal resection,IV
+SYN-0028,Male,73,Adult,49,24,4.7,Temporal,Left,Gliosis/other,Yes,No,Concordant,Yes,Concordant,Yes,Non-localizing,Yes,Discordant,Yes,Concordant,5,3,Temporal resection,I
+SYN-0029,Male,62,Adult,7,55,19.6,Temporal,Right,Hippocampal sclerosis,Yes,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,No,Not performed,2,2,Temporal resection,I
+SYN-0030,Female,49,Adult,30,19,2.4,Temporal,Right,Focal cortical dysplasia,Yes,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,Yes,Concordant,3,3,Temporal resection,I
+SYN-0031,Male,75,Adult,28,47,2.6,Temporal,Right,Hippocampal sclerosis,Yes,Yes,Concordant,Yes,Discordant,Yes,Non-localizing,Yes,Discordant,Yes,Concordant,5,2,Laser ablation,III
+SYN-0032,Male,32,Adult,18,14,4.3,Temporal,Right,Hippocampal sclerosis,Yes,Yes,Non-localizing,Yes,Discordant,Yes,Concordant,Yes,Concordant,Yes,Concordant,5,3,Temporal resection,I
+SYN-0033,Female,25,Adult,12,13,1.8,Hemispheric/multilobar,Right,Focal cortical dysplasia,Yes,Yes,Concordant,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,3,3,Lesionectomy,I
+SYN-0034,Female,63,Adult,35,28,4.8,Temporal,Left,,Yes,Yes,Discordant,Yes,Concordant,No,Not performed,Yes,Concordant,No,Not performed,3,2,Temporal resection,I
+SYN-0035,Female,47,Adult,6,41,2.2,Temporal,Left,Focal cortical dysplasia,Yes,Yes,Concordant,Yes,Non-localizing,Yes,Discordant,No,Not performed,No,Not performed,3,1,Laser ablation,II
+SYN-0036,Male,54,Adult,21,33,12.5,Hemispheric/multilobar,Left,Gliosis/other,Yes,No,Discordant,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,3,2,Laser ablation,II
+SYN-0037,Male,19,Adult,3,16,1.5,Frontal,Left,Focal cortical dysplasia,Yes,No,Discordant,Yes,Discordant,Yes,Non-localizing,Yes,Concordant,No,Not performed,4,1,Extratemporal resection,I
+SYN-0038,Male,26,Adult,21,5,1.6,Temporal,Bilateral,Hippocampal sclerosis,Yes,No,Discordant,Yes,Concordant,Yes,Concordant,Yes,Non-localizing,Yes,Discordant,5,2,Laser ablation,I
+SYN-0039,Female,73,Adult,54,19,5.3,Parietal/occipital,Right,Focal cortical dysplasia,Yes,Yes,Concordant,Yes,Non-localizing,No,Not performed,Yes,Concordant,No,Not performed,3,2,Extratemporal resection,I
+SYN-0040,Male,11,Pediatric,1,10,6.9,Temporal,Left,Focal cortical dysplasia,Yes,Yes,Concordant,Yes,Concordant,No,Not performed,Yes,Non-localizing,No,Not performed,3,2,Temporal resection,I
+SYN-0041,Female,68,Adult,7,61,1.2,Parietal/occipital,Left,No definitive pathology,Yes,No,Concordant,Yes,Concordant,Yes,Concordant,Yes,Concordant,No,Not performed,4,4,Lesionectomy,III
+SYN-0042,Male,59,Adult,48,11,0.8,Temporal,Left,Vascular malformation,Yes,Yes,Concordant,Yes,Discordant,No,Not performed,Yes,Discordant,No,Not performed,3,1,Lesionectomy,II
+SYN-0043,Female,33,Adult,29,4,1.0,Frontal,Right,Focal cortical dysplasia,Yes,Yes,Concordant,Yes,Non-localizing,Yes,Concordant,Yes,Non-localizing,No,Not performed,4,2,Extratemporal resection,II
+SYN-0044,Female,9,Pediatric,2,7,7.2,Hemispheric/multilobar,Left,Focal cortical dysplasia,Yes,Yes,Discordant,Yes,Concordant,No,Not performed,Yes,Concordant,No,Not performed,3,2,Hemispherotomy,I
+SYN-0045,Female,32,Adult,7,25,1.6,Temporal,Right,No definitive pathology,Yes,Yes,Concordant,Yes,Concordant,No,Not performed,Yes,Concordant,No,Not performed,3,3,Temporal resection,I
+SYN-0046,Male,36,Adult,31,5,8.2,Hemispheric/multilobar,Right,Vascular malformation,Yes,Yes,Concordant,Yes,Discordant,Yes,Discordant,Yes,Concordant,No,Not performed,4,2,Lesionectomy,I
+SYN-0047,Female,56,Adult,14,42,7.9,Hemispheric/multilobar,Right,Focal cortical dysplasia,Yes,No,Concordant,Yes,Concordant,No,Not performed,No,Not performed,No,Not performed,2,2,Extratemporal resection,I
+SYN-0048,Female,50,Adult,17,33,2.1,Hemispheric/multilobar,Right,Gliosis/other,Yes,No,Discordant,Yes,Concordant,No,Not performed,No,Not performed,Yes,Concordant,3,2,Extratemporal resection,II
+SYN-0049,Male,37,Adult,7,30,1.7,Frontal,Right,Focal cortical dysplasia,Yes,Yes,Concordant,Yes,Concordant,No,Not performed,Yes,Concordant,Yes,Concordant,4,4,Lesionectomy,II
+SYN-0050,Male,28,Adult,25,3,3.1,Temporal,Left,Hippocampal sclerosis,Yes,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,No,Not performed,2,2,Laser ablation,III
+SYN-0051,Male,50,Adult,24,26,1.0,Temporal,Right,Focal cortical dysplasia,Yes,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,No,Not performed,2,2,Temporal resection,I
+SYN-0052,Female,39,Adult,6,33,1.7,Frontal,Right,Low-grade tumor,Yes,Yes,Concordant,Yes,Concordant,No,Not performed,Yes,Concordant,No,Not performed,3,3,Lesionectomy,I
+SYN-0053,Male,23,Adult,3,20,2.1,Frontal,Right,Gliosis/other,Yes,Yes,Discordant,Yes,Non-localizing,Yes,Discordant,No,Not performed,Yes,Concordant,4,1,Extratemporal resection,III
+SYN-0054,Male,41,Adult,14,27,4.5,Temporal,Left,Hippocampal sclerosis,Yes,No,Concordant,Yes,Concordant,Yes,Concordant,Yes,Concordant,No,Not performed,4,4,Laser ablation,II
+SYN-0055,Male,17,Pediatric,4,13,3.4,Hemispheric/multilobar,Left,Gliosis/other,Yes,No,Discordant,Yes,Concordant,Yes,Concordant,Yes,Discordant,Yes,Concordant,5,3,Extratemporal resection,I
+SYN-0056,Female,49,Adult,7,42,1.2,Temporal,Right,Gliosis/other,Yes,No,Non-localizing,Yes,Concordant,No,Not performed,No,Not performed,No,Not performed,2,1,Temporal resection,II
+SYN-0057,Male,59,Adult,47,12,1.5,Parietal/occipital,Left,Low-grade tumor,Yes,Yes,Concordant,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,3,3,Lesionectomy,I
+SYN-0058,Female,30,Adult,16,14,2.4,Temporal,Left,Gliosis/other,Yes,No,Non-localizing,Yes,Concordant,Yes,Concordant,Yes,Concordant,No,Not performed,4,3,Temporal resection,I
+SYN-0059,Female,35,Adult,19,16,3.4,Temporal,Left,Hippocampal sclerosis,Yes,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,No,Not performed,2,2,Temporal resection,II
+SYN-0060,Female,10,Pediatric,8,2,13.6,Hemispheric/multilobar,Bilateral,Focal cortical dysplasia,Yes,Yes,Concordant,Yes,Discordant,Yes,Concordant,No,Not performed,No,Not performed,3,2,Extratemporal resection,I
+SYN-0061,Male,8,Pediatric,3,5,2.1,Temporal,Right,Vascular malformation,Yes,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,No,Not performed,2,2,Lesionectomy,I
+SYN-0062,Female,38,Adult,10,28,4.9,Temporal,Left,No definitive pathology,Yes,No,Discordant,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,3,2,Temporal resection,IV
+SYN-0063,Male,42,Adult,15,27,8.0,Temporal,Left,No definitive pathology,Yes,No,Discordant,Yes,Concordant,No,Not performed,No,Not performed,Yes,Concordant,3,2,Laser ablation,IV
+SYN-0064,Female,51,Adult,30,21,5.6,Temporal,Right,Focal cortical dysplasia,Yes,Yes,Concordant,Yes,Non-localizing,Yes,Discordant,Yes,Non-localizing,No,Not performed,4,1,Temporal resection,II
+SYN-0065,Male,55,Adult,53,2,4.3,Temporal,Left,Hippocampal sclerosis,Yes,Yes,Concordant,Yes,Concordant,No,Not performed,Yes,Concordant,No,Not performed,3,3,Temporal resection,I
+SYN-0066,Female,52,Adult,12,40,2.9,Temporal,Bilateral,Low-grade tumor,Yes,Yes,Concordant,Yes,Discordant,Yes,Discordant,No,Not performed,No,Not performed,3,1,Lesionectomy,IV
+SYN-0067,Female,3,Pediatric,1,2,7.0,Frontal,Right,Focal cortical dysplasia,Yes,No,Concordant,Yes,Concordant,No,Not performed,Yes,Concordant,Yes,Concordant,4,4,Lesionectomy,III
+SYN-0068,Male,46,Adult,15,31,2.4,Temporal,Left,Gliosis/other,Yes,Yes,Non-localizing,Yes,Discordant,Yes,Concordant,Yes,Non-localizing,No,Not performed,4,1,Temporal resection,II
+SYN-0069,Male,4,Pediatric,0,4,11.7,Hemispheric/multilobar,Bilateral,Focal cortical dysplasia,Yes,Yes,Discordant,Yes,Discordant,No,Not performed,No,Not performed,Yes,Non-localizing,3,0,Hemispherotomy,I
+SYN-0070,Female,32,Adult,20,12,5.8,Temporal,Right,Hippocampal sclerosis,Yes,Yes,Concordant,Yes,Concordant,No,Not performed,Yes,Concordant,No,Not performed,3,3,Laser ablation,III
+SYN-0071,Female,38,Adult,15,23,6.0,Frontal,Left,Low-grade tumor,Yes,Yes,Concordant,Yes,Concordant,Yes,Non-localizing,No,Not performed,No,Not performed,3,2,Extratemporal resection,I
+SYN-0072,Female,45,Adult,5,40,12.0,Temporal,Right,Hippocampal sclerosis,Yes,Yes,Concordant,Yes,Discordant,Yes,Discordant,Yes,Concordant,No,Not performed,4,2,Temporal resection,I
+SYN-0073,Female,46,Adult,37,9,3.2,Frontal,Bilateral,Gliosis/other,Yes,No,Non-localizing,Yes,Non-localizing,Yes,Discordant,No,Not performed,Yes,Non-localizing,4,0,Extratemporal resection,IV
+SYN-0074,Male,4,Pediatric,2,2,7.1,Temporal,Left,Focal cortical dysplasia,Yes,Yes,Concordant,Yes,Concordant,Yes,Non-localizing,No,Not performed,Yes,Discordant,4,2,Temporal resection,I
+SYN-0075,Female,23,Adult,14,9,2.7,Frontal,Right,Low-grade tumor,Yes,Yes,Concordant,Yes,Concordant,Yes,Concordant,Yes,Concordant,No,Not performed,4,4,Lesionectomy,II
+SYN-0076,Female,66,Adult,26,40,2.2,Temporal,Left,Vascular malformation,Yes,Yes,Concordant,Yes,Non-localizing,Yes,Concordant,No,Not performed,Yes,Concordant,4,3,Laser ablation,II
+SYN-0077,Male,24,Adult,8,16,4.1,Frontal,Right,,Yes,Yes,Concordant,Yes,Discordant,No,Not performed,No,Not performed,No,Not performed,2,1,Lesionectomy,I
+SYN-0078,Female,27,Adult,9,18,1.7,Parietal/occipital,Left,Focal cortical dysplasia,Yes,Yes,Discordant,Yes,Concordant,No,Not performed,No,Not performed,No,Not performed,2,1,Lesionectomy,I
+SYN-0079,Female,4,Pediatric,3,1,16.4,Temporal,Right,Low-grade tumor,Yes,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,No,Not performed,2,2,Lesionectomy,II
+SYN-0080,Female,32,Adult,27,5,2.5,Temporal,Right,Hippocampal sclerosis,Yes,Yes,Concordant,Yes,Concordant,Yes,Discordant,No,Not performed,No,Not performed,3,2,Temporal resection,I
+SYN-0081,Male,17,Pediatric,10,7,7.6,Frontal,Right,No definitive pathology,Yes,No,Non-localizing,Yes,Concordant,Yes,Non-localizing,Yes,Concordant,Yes,Non-localizing,5,2,Extratemporal resection,II
+SYN-0082,Female,5,Pediatric,1,4,3.4,Parietal/occipital,Right,Low-grade tumor,Yes,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,No,Not performed,2,2,Extratemporal resection,III
+SYN-0083,Male,6,Pediatric,3,3,2.9,Frontal,Bilateral,Focal cortical dysplasia,Yes,No,Non-localizing,Yes,Concordant,No,Not performed,Yes,Concordant,No,Not performed,3,2,Lesionectomy,III
+SYN-0084,Male,41,Adult,15,26,4.1,Temporal,Left,Low-grade tumor,Yes,No,Concordant,Yes,Concordant,Yes,Concordant,Yes,Concordant,No,Not performed,4,4,Lesionectomy,IV
+SYN-0085,Female,31,Adult,27,4,3.6,Temporal,Right,No definitive pathology,Yes,No,Non-localizing,Yes,Non-localizing,Yes,Concordant,No,Not performed,Yes,Concordant,4,2,Temporal resection,IV
+SYN-0086,Male,51,Adult,28,23,10.7,Temporal,Right,Low-grade tumor,Yes,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,No,Not performed,2,2,Lesionectomy,I
+SYN-0087,Male,40,Adult,1,39,4.0,Temporal,Right,Vascular malformation,Yes,Yes,Concordant,Yes,Non-localizing,Yes,Concordant,No,Not performed,No,Not performed,3,2,Laser ablation,I
+SYN-0088,Female,72,Adult,28,44,1.7,Frontal,Bilateral,Low-grade tumor,Yes,Yes,Concordant,Yes,Discordant,Yes,Discordant,No,Not performed,Yes,Concordant,4,2,Lesionectomy,I
+SYN-0089,Male,22,Adult,6,16,10.8,Temporal,Left,Focal cortical dysplasia,Yes,Yes,Discordant,Yes,Concordant,Yes,Concordant,Yes,Concordant,No,Not performed,4,3,Lesionectomy,I
+SYN-0090,Male,45,Adult,11,34,1.4,Temporal,Left,Hippocampal sclerosis,Yes,Yes,Discordant,Yes,Concordant,Yes,Non-localizing,No,Not performed,No,Not performed,3,1,Temporal resection,III
+SYN-0091,Female,16,Pediatric,4,12,1.7,Temporal,Right,Focal cortical dysplasia,Yes,Yes,Concordant,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,3,3,Lesionectomy,I
+SYN-0092,Male,45,Adult,31,14,1.6,Temporal,Left,Hippocampal sclerosis,Yes,Yes,Non-localizing,Yes,Concordant,No,Not performed,No,Not performed,No,Not performed,2,1,Temporal resection,II
+SYN-0093,Male,21,Adult,9,12,3.1,Temporal,Left,Gliosis/other,Yes,No,Discordant,Yes,Non-localizing,Yes,Concordant,Yes,Concordant,No,Not performed,4,2,Laser ablation,I
+SYN-0094,Male,18,Adult,1,17,4.8,Hemispheric/multilobar,Left,Vascular malformation,Yes,No,Discordant,Yes,Concordant,Yes,Concordant,Yes,Concordant,Yes,Concordant,5,4,Lesionectomy,III
+SYN-0095,Female,55,Adult,22,33,4.1,Temporal,Right,Focal cortical dysplasia,Yes,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,Yes,Concordant,3,3,Lesionectomy,I
+SYN-0096,Female,19,Adult,15,4,2.2,Temporal,Right,Gliosis/other,Yes,No,Non-localizing,Yes,Discordant,Yes,Non-localizing,Yes,Non-localizing,Yes,Concordant,5,1,Temporal resection,I
+SYN-0097,Male,9,Pediatric,7,2,6.6,Frontal,Left,Focal cortical dysplasia,Yes,No,Non-localizing,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,3,2,Extratemporal resection,I
+SYN-0098,Female,33,Adult,4,29,1.2,Temporal,Right,Hippocampal sclerosis,Yes,Yes,Concordant,Yes,Concordant,Yes,Non-localizing,No,Not performed,No,Not performed,3,2,Temporal resection,II
+SYN-0099,Female,3,Pediatric,1,2,3.3,Frontal,Right,Gliosis/other,Yes,Yes,Concordant,Yes,Discordant,No,Not performed,Yes,Non-localizing,Yes,Concordant,4,2,Extratemporal resection,I
+SYN-0100,Male,29,Adult,14,15,4.6,Temporal,Bilateral,Gliosis/other,Yes,No,Concordant,Yes,Discordant,Yes,Concordant,No,Not performed,Yes,Concordant,4,3,Temporal resection,I
+SYN-0101,Female,36,Adult,9,27,2.7,Temporal,Right,Hippocampal sclerosis,Yes,Yes,Concordant,Yes,Concordant,No,Not performed,Yes,Concordant,No,Not performed,3,3,Temporal resection,IV
+SYN-0102,Female,3,Pediatric,2,1,9.1,Hemispheric/multilobar,Right,Vascular malformation,Yes,Yes,Concordant,Yes,Non-localizing,Yes,Concordant,No,Not performed,Yes,Non-localizing,4,2,Hemispherotomy,I
+SYN-0103,Male,74,Adult,52,22,7.4,Temporal,Right,No definitive pathology,Yes,No,Non-localizing,Yes,Discordant,No,Not performed,Yes,Non-localizing,Yes,Discordant,4,0,Temporal resection,IV
+SYN-0104,Female,55,Adult,40,15,3.4,Frontal,Right,Gliosis/other,Yes,No,Non-localizing,Yes,Concordant,Yes,Concordant,Yes,Concordant,No,Not performed,4,3,Extratemporal resection,I
+SYN-0105,Male,27,Adult,10,17,4.2,Hemispheric/multilobar,Right,Focal cortical dysplasia,Yes,Yes,Concordant,Yes,Concordant,Yes,Non-localizing,No,Not performed,No,Not performed,3,2,Lesionectomy,I
+SYN-0106,Male,47,Adult,18,29,2.3,Frontal,Left,No definitive pathology,Yes,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,No,Not performed,2,2,Extratemporal resection,I
+SYN-0107,Female,62,Adult,14,48,1.6,Temporal,Right,No definitive pathology,Yes,Yes,Concordant,Yes,Concordant,Yes,Non-localizing,Yes,Discordant,Yes,Concordant,5,3,Laser ablation,I
+SYN-0108,Female,36,Adult,27,9,9.2,Temporal,Left,Focal cortical dysplasia,Yes,Yes,Concordant,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,3,3,Lesionectomy,I
+SYN-0109,Female,10,Pediatric,5,5,5.5,Temporal,Right,Vascular malformation,Yes,Yes,Concordant,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,3,3,Temporal resection,IV
+SYN-0110,Female,39,Adult,23,16,10.8,Temporal,Right,No definitive pathology,Yes,No,Non-localizing,Yes,Non-localizing,Yes,,Yes,Non-localizing,Yes,Concordant,5,2,Temporal resection,I
+SYN-0111,Female,6,Pediatric,2,4,5.7,temporal,Right,Focal cortical dysplasia,Yes,Yes,Concordant,Yes,Discordant,No,Not performed,Yes,Concordant,No,Not performed,3,2,Laser ablation,I
+SYN-0112,Male,33,Adult,16,17,1.4,Frontal,Right,Low-grade tumor,Yes,Yes,Concordant,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,3,3,Extratemporal resection,I
+SYN-0113,Female,14,Pediatric,5,9,4.9,Temporal,Right,Focal cortical dysplasia,Yes,Yes,Non-localizing,Yes,Discordant,Yes,Concordant,Yes,Discordant,Yes,Concordant,5,2,Laser ablation,I
+SYN-0114,Male,14,Pediatric,2,12,0.9,Frontal,Right,Focal cortical dysplasia,Yes,Yes,Non-localizing,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,3,2,Laser ablation,I
+SYN-0115,Male,5,Pediatric,2,3,3.6,Temporal,Left,Focal cortical dysplasia,Yes,No,Concordant,Yes,Discordant,Yes,Concordant,No,Not performed,Yes,Concordant,4,3,Laser ablation,I
+SYN-0116,Male,43,Adult,9,34,11.3,Temporal,Left,Focal cortical dysplasia,Yes,No,Discordant,Yes,Non-localizing,No,Not performed,Yes,Concordant,No,Not performed,3,1,Lesionectomy,I
+SYN-0117,Male,3,Pediatric,2,1,3.1,Temporal,Left,Focal cortical dysplasia,Yes,Yes,Concordant,Yes,Non-localizing,Yes,Concordant,Yes,Concordant,No,Not performed,4,3,Lesionectomy,II
+SYN-0118,Female,25,Adult,17,8,9.6,Temporal,Right,Hippocampal sclerosis,Yes,Yes,Concordant,Yes,Discordant,Yes,Concordant,No,Not performed,No,Not performed,3,2,Temporal resection,I
+SYN-0119,Male,41,Adult,20,21,1.9,Temporal,Right,Low-grade tumor,Yes,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,No,Not performed,2,2,Lesionectomy,I
+SYN-0120,Male,29,Adult,16,13,2.5,Temporal,Left,Hippocampal sclerosis,Yes,Yes,Discordant,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,3,2,Laser ablation,IV
+SYN-0121,Male,31,Adult,19,12,1.4,Temporal,Left,Focal cortical dysplasia,Yes,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,No,Not performed,2,2,Temporal resection,II
+SYN-0122,Female,13,Pediatric,2,11,11.5,Parietal/occipital,Right,Low-grade tumor,Yes,Yes,Concordant,Yes,Concordant,Yes,Concordant,Yes,Concordant,No,Not performed,4,4,Extratemporal resection,II
+SYN-0123,Female,44,Adult,14,30,4.8,Frontal,Right,Focal cortical dysplasia,Yes,Yes,Concordant,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,3,3,Lesionectomy,I
+SYN-0124,Male,26,Adult,10,16,1.9,Temporal,Right,Focal cortical dysplasia,Yes,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,No,Not performed,2,2,Lesionectomy,I
+SYN-0125,Male,34,Adult,2,32,5.1,Temporal,Right,Hippocampal sclerosis,Yes,Yes,Concordant,Yes,Concordant,Yes,Discordant,No,Not performed,No,Not performed,3,2,Temporal resection,II
+SYN-0126,Female,18,Adult,7,11,0.7,Temporal,Left,Low-grade tumor,Yes,No,Concordant,Yes,Concordant,Yes,Concordant,Yes,Non-localizing,No,Not performed,4,3,Temporal resection,IV
+SYN-0127,Male,40,Adult,38,2,3.7,temporal,Right,Focal cortical dysplasia,Yes,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,No,Not performed,2,2,Lesionectomy,I
+SYN-0128,Male,31,Adult,22,9,2.2,Temporal,Bilateral,Hippocampal sclerosis,Yes,Yes,Non-localizing,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,3,2,Temporal resection,IV
+SYN-0129,Female,41,Adult,3,38,0.8,Temporal,Right,Gliosis/other,Yes,No,Discordant,Yes,Concordant,Yes,Concordant,Yes,Concordant,No,Not performed,4,3,Temporal resection,II
+SYN-0130,Female,41,Adult,11,30,2.2,Temporal,Right,Gliosis/other,Yes,No,Non-localizing,Yes,Concordant,No,Not performed,Yes,Concordant,Yes,Concordant,4,3,Laser ablation,IV
+SYN-0131,Male,33,Adult,30,3,3.0,Temporal,Left,Hippocampal sclerosis,Yes,Yes,Non-localizing,Yes,Discordant,Yes,Concordant,Yes,Discordant,Yes,Concordant,5,2,Temporal resection,II
+SYN-0132,Male,63,Adult,32,31,2.0,Temporal,Left,Focal cortical dysplasia,Yes,No,Discordant,Yes,Concordant,Yes,Concordant,No,Not performed,Yes,Concordant,4,3,Temporal resection,I
+SYN-0133,Male,56,Adult,25,31,3.2,Temporal,Left,Low-grade tumor,Yes,Yes,Concordant,Yes,Non-localizing,No,Not performed,Yes,Concordant,No,Not performed,3,2,Laser ablation,IV
+SYN-0134,Male,8,Pediatric,2,6,8.5,Frontal,Left,Focal cortical dysplasia,Yes,Yes,Concordant,Yes,Non-localizing,Yes,Concordant,Yes,Concordant,No,Not performed,4,3,Lesionectomy,I
+SYN-0135,Male,54,Adult,20,-2,3.9,Frontal,Left,Focal cortical dysplasia,Yes,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,No,Not performed,2,2,Lesionectomy,II
+SYN-0136,Female,50,Adult,33,17,4.4,Temporal,Left,Hippocampal sclerosis,Yes,No,Concordant,Yes,Concordant,No,Not performed,Yes,Discordant,No,Not performed,3,2,Temporal resection,I
+SYN-0137,Male,28,Adult,9,19,5.0,Temporal,Left,Gliosis/other,Yes,No,Concordant,Yes,Non-localizing,Yes,Non-localizing,No,Not performed,Yes,Non-localizing,4,1,Laser ablation,I
+SYN-0138,Male,38,Adult,30,8,2.8,Temporal,Right,Hippocampal sclerosis,Yes,No,Non-localizing,Yes,Concordant,No,Not performed,No,Not performed,No,Not performed,2,1,Temporal resection,I
+SYN-0139,Male,30,Adult,14,16,2.4,Parietal/occipital,Left,Focal cortical dysplasia,Yes,Yes,Non-localizing,Yes,Non-localizing,Yes,Discordant,No,Not performed,Yes,Concordant,4,1,Extratemporal resection,IV
+SYN-0140,Female,12,Pediatric,1,11,0.6,Temporal,Right,Low-grade tumor,Yes,Yes,Concordant,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,3,3,Temporal resection,II
+SYN-0141,Female,27,Adult,4,23,1.0,Temporal,Right,Hippocampal sclerosis,Yes,Yes,Concordant,Yes,Concordant,Yes,Non-localizing,No,Not performed,Yes,Concordant,4,3,Temporal resection,I
+SYN-0142,Female,4,Pediatric,0,4,3.0,Frontal,Left,Low-grade tumor,Yes,Yes,Concordant,Yes,Concordant,No,Not performed,Yes,Concordant,No,Not performed,3,3,Extratemporal resection,I
+SYN-0143,Female,10,Pediatric,4,6,2.1,Parietal/occipital,Bilateral,Focal cortical dysplasia,Yes,Yes,Discordant,Yes,Non-localizing,No,Not performed,No,Not performed,Yes,Concordant,3,1,Extratemporal resection,I
+SYN-0144,Male,53,Adult,36,17,0.9,Frontal,Left,Focal cortical dysplasia,Yes,No,Concordant,Yes,Concordant,No,Not performed,Yes,Discordant,Yes,Non-localizing,4,2,Lesionectomy,III
+SYN-0145,Male,7,Pediatric,6,1,15.7,Frontal,Right,Gliosis/other,Yes,No,Concordant,Yes,Non-localizing,Yes,Discordant,Yes,Non-localizing,Yes,Concordant,5,2,Extratemporal resection,II
+SYN-0146,Female,60,Adult,39,21,10.5,Hemispheric/multilobar,Bilateral,Gliosis/other,Yes,No,Discordant,Yes,Discordant,No,Not performed,No,Not performed,Yes,Concordant,3,1,Lesionectomy,II
+SYN-0147,Male,46,Adult,16,30,2.2,Frontal,Right,Focal cortical dysplasia,Yes,Yes,Concordant,Yes,Concordant,Yes,Non-localizing,No,Not performed,No,Not performed,3,2,Laser ablation,I
+SYN-0148,Female,29,Adult,10,19,7.0,Parietal/occipital,Left,Vascular malformation,Yes,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,No,Not performed,2,2,Lesionectomy,III
+SYN-0149,Female,72,Adult,38,34,4.6,Frontal,Right,Focal cortical dysplasia,Yes,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,No,Not performed,2,2,Extratemporal resection,II
+SYN-0150,Male,40,Adult,31,9,6.7,Hemispheric/multilobar,Right,Focal cortical dysplasia,Yes,Yes,Non-localizing,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,3,2,Extratemporal resection,II
+SYN-0151,Male,28,Adult,14,14,2.0,Temporal,Bilateral,Focal cortical dysplasia,Yes,Yes,Concordant,Yes,Discordant,No,Not performed,Yes,Concordant,Yes,Concordant,4,3,Laser ablation,I
+SYN-0152,Female,25,Adult,9,16,2.2,Hemispheric/multilobar,Left,Vascular malformation,Yes,Yes,Concordant,Yes,Concordant,No,Not performed,Yes,Discordant,No,Not performed,3,2,Lesionectomy,I
+SYN-0153,Female,45,Adult,5,40,4.7,Temporal,Left,Hippocampal sclerosis,Yes,Yes,Concordant,Yes,Non-localizing,Yes,Non-localizing,No,Not performed,Yes,Discordant,4,1,Temporal resection,IV
+SYN-0154,Male,20,Adult,18,2,0.7,Temporal,Bilateral,Hippocampal sclerosis,Yes,No,Non-localizing,Yes,Concordant,No,Not performed,Yes,Non-localizing,Yes,Concordant,4,2,Temporal resection,I
+SYN-0155,Female,47,Adult,17,30,3.3,Hemispheric/multilobar,Bilateral,Gliosis/other,Yes,Yes,Concordant,Yes,Discordant,Yes,Concordant,No,Not performed,No,Not performed,3,2,Extratemporal resection,I
+SYN-0156,Male,42,Adult,22,20,1.9,Temporal,Right,Focal cortical dysplasia,Yes,Yes,Non-localizing,Yes,Concordant,Yes,Discordant,Yes,Concordant,No,Not performed,4,2,Temporal resection,II
+SYN-0157,Male,19,Adult,13,6,3.2,Temporal,Left,Vascular malformation,Yes,No,Non-localizing,Yes,Concordant,Yes,Concordant,Yes,Concordant,Yes,Discordant,5,3,Laser ablation,II
+SYN-0158,Female,43,Adult,2,41,2.9,Frontal,Left,Focal cortical dysplasia,Yes,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,No,Not performed,2,2,Lesionectomy,IV
+SYN-0159,Female,72,Adult,25,47,5.8,Frontal,Right,Focal cortical dysplasia,Yes,Yes,Discordant,Yes,Concordant,Yes,Non-localizing,No,Not performed,Yes,Concordant,4,2,Lesionectomy,I
+SYN-0160,Female,39,Adult,32,7,1.5,Temporal,Left,Hippocampal sclerosis,Yes,No,Concordant,Yes,Concordant,No,Not performed,Yes,Non-localizing,Yes,Concordant,4,3,Laser ablation,I
+SYN-0161,Male,28,Adult,5,23,5.4,Hemispheric/multilobar,Bilateral,Focal cortical dysplasia,Yes,No,Discordant,Yes,Non-localizing,Yes,Concordant,Yes,Non-localizing,Yes,Concordant,5,2,Lesionectomy,IV
+SYN-0162,Female,46,Adult,12,34,2.1,Parietal/occipital,Right,No definitive pathology,Yes,No,Non-localizing,Yes,Non-localizing,Yes,Non-localizing,No,Not performed,Yes,Concordant,4,1,Extratemporal resection,III
+SYN-0163,Male,3,Pediatric,1,2,999.0,Temporal,Right,Low-grade tumor,Yes,No,Concordant,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,3,3,Temporal resection,I
+SYN-0164,Male,56,Adult,19,37,7.0,Temporal,Bilateral,Focal cortical dysplasia,Yes,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,No,Not performed,2,2,Lesionectomy,IV
+SYN-0165,Male,28,Adult,18,10,3.9,Temporal,Left,Vascular malformation,Yes,Yes,Concordant,Yes,Discordant,Yes,Concordant,No,Not performed,No,Not performed,3,2,Temporal resection,I
+SYN-0166,Male,75,Adult,16,59,2.7,Temporal,Right,Focal cortical dysplasia,Yes,No,Discordant,Yes,Concordant,Yes,Non-localizing,No,Not performed,Yes,Concordant,4,2,Lesionectomy,I
+SYN-0167,Female,33,Adult,25,8,4.9,Parietal/occipital,Left,Low-grade tumor,Yes,Yes,Concordant,Yes,Non-localizing,No,Not performed,No,Not performed,No,Not performed,2,1,Lesionectomy,II
+SYN-0168,Male,11,Pediatric,3,8,14.9,Temporal,Right,Low-grade tumor,Yes,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,No,Not performed,2,2,Laser ablation,I
+SYN-0169,Male,11,Pediatric,5,6,24.5,Hemispheric/multilobar,Bilateral,Vascular malformation,Yes,Yes,Concordant,Yes,Concordant,No,Not performed,Yes,Discordant,No,Not performed,3,2,Hemispherotomy,I
+SYN-0170,Female,29,Adult,11,18,4.8,Temporal,Right,Focal cortical dysplasia,Yes,No,Non-localizing,Yes,Concordant,No,Not performed,No,Not performed,No,Not performed,2,1,Temporal resection,I
+SYN-0171,Male,19,Adult,8,11,2.2,Frontal,Left,Focal cortical dysplasia,Yes,Yes,Discordant,Yes,Non-localizing,Yes,Discordant,Yes,Concordant,No,Not performed,4,1,Lesionectomy,II
+SYN-0172,Male,26,Adult,12,14,0.9,Temporal,Right,Focal cortical dysplasia,Yes,Yes,Discordant,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,3,2,Laser ablation,IV
+SYN-0173,Male,22,Adult,7,15,2.3,Temporal,Right,Hippocampal sclerosis,Yes,Yes,Concordant,Yes,Discordant,Yes,Non-localizing,Yes,Concordant,No,Not performed,4,2,Temporal resection,I
+SYN-0174,Female,6,Pediatric,2,4,3.4,Temporal,Bilateral,Gliosis/other,Yes,No,Discordant,Yes,Discordant,Yes,Concordant,Yes,Concordant,Yes,Concordant,5,3,Temporal resection,III
+SYN-0175,Male,24,Adult,13,11,2.9,Parietal/occipital,Right,Gliosis/other,No,Not performed,Not performed,Yes,Concordant,Yes,Discordant,No,Not performed,Yes,Concordant,3,2,Extratemporal resection,II
+SYN-0176,Female,38,Adult,36,2,6.3,Temporal,Left,Low-grade tumor,Yes,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,No,Not performed,2,2,Laser ablation,I
+SYN-0177,Male,16,Pediatric,10,6,4.4,Temporal,Left,Gliosis/other,Yes,No,Discordant,Yes,Concordant,No,Not performed,No,Not performed,Yes,Concordant,3,2,Temporal resection,I
+SYN-0178,Male,9,Pediatric,5,4,16.4,Temporal,Right,Focal cortical dysplasia,Yes,Yes,Concordant,Yes,Discordant,Yes,Concordant,No,Not performed,No,Not performed,3,2,Lesionectomy,I
+SYN-0179,Male,37,Adult,23,14,6.5,Frontal,Right,Focal cortical dysplasia,Yes,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,No,Not performed,2,2,Extratemporal resection,I
+SYN-0180,Female,31,Adult,14,17,11.8,Temporal,Left,Hippocampal sclerosis,Yes,Yes,Concordant,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,3,3,Temporal resection,I
+SYN-0181,Male,33,Adult,6,27,1.6,Temporal,Left,No definitive pathology,Yes,Yes,Concordant,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,3,3,Laser ablation,III
+SYN-0182,Male,74,Adult,24,50,5.2,Parietal/occipital,Right,Focal cortical dysplasia,Yes,Yes,Concordant,Yes,Concordant,Yes,Non-localizing,No,Not performed,No,Not performed,3,2,Lesionectomy,II
+SYN-0183,Female,29,Adult,11,18,15.7,Temporal,Left,Low-grade tumor,Yes,Yes,Discordant,Yes,Concordant,Yes,Concordant,Yes,Concordant,Yes,Concordant,5,4,Lesionectomy,I
+SYN-0184,Female,42,Adult,20,22,4.6,Hemispheric/multilobar,Right,Focal cortical dysplasia,Yes,Yes,Concordant,Yes,Discordant,No,Not performed,Yes,Concordant,No,Not performed,3,2,Lesionectomy,IV
+SYN-0185,Male,19,Adult,10,9,1.6,Temporal,Right,Hippocampal sclerosis,Yes,Yes,Concordant,Yes,Non-localizing,Yes,Concordant,No,Not performed,No,Not performed,3,2,Laser ablation,I
+SYN-0186,Female,53,Adult,33,20,8.6,Temporal,Left,Hippocampal sclerosis,Yes,Yes,Concordant,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,3,3,Temporal resection,IV
+SYN-0187,Female,27,Adult,14,13,6.0,Hemispheric/multilobar,Right,Focal cortical dysplasia,Yes,Yes,Concordant,Yes,Non-localizing,No,Not performed,Yes,Discordant,No,Not performed,3,1,Extratemporal resection,I
+SYN-0188,Male,69,Adult,33,36,3.9,Hemispheric/multilobar,Right,Low-grade tumor,Yes,No,Non-localizing,Yes,Discordant,Yes,Discordant,No,Not performed,Yes,Concordant,4,1,Lesionectomy,I
+SYN-0189,Female,48,Adult,14,34,4.2,Temporal,Right,Focal cortical dysplasia,Yes,No,Discordant,Yes,Discordant,No,Not performed,Yes,Non-localizing,Yes,Concordant,4,1,Lesionectomy,I
+SYN-0190,Male,71,Adult,5,66,6.7,Temporal,Right,Hippocampal sclerosis,Yes,Yes,Non-localizing,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,3,2,Temporal resection,III
+SYN-0191,Female,53,Adult,50,3,0.5,Temporal,Left,Gliosis/other,Yes,No,Discordant,Yes,Non-localizing,No,Not performed,No,Not performed,Yes,Concordant,3,1,Temporal resection,II
+SYN-0192,Female,66,Adult,30,36,13.0,temporal,Left,Low-grade tumor,Yes,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,No,Not performed,2,2,Temporal resection,II
+SYN-0193,Female,53,Adult,25,28,1.6,Parietal/occipital,Bilateral,Low-grade tumor,Yes,Yes,Concordant,Yes,Discordant,Yes,Non-localizing,No,Not performed,No,Not performed,3,1,Extratemporal resection,IV
+SYN-0194,Female,51,Adult,13,38,1.9,Frontal,Right,Focal cortical dysplasia,Yes,Yes,Concordant,Yes,Non-localizing,Yes,Discordant,No,Not performed,Yes,Concordant,4,2,Lesionectomy,IV
+SYN-0195,Male,50,Adult,32,18,1.7,Temporal,Right,Vascular malformation,Yes,Yes,Concordant,Yes,Non-localizing,Yes,Non-localizing,No,Not performed,No,Not performed,3,1,Lesionectomy,I
+SYN-0196,Female,59,Adult,29,30,1.3,Temporal,Right,Focal cortical dysplasia,Yes,Yes,Concordant,Yes,Concordant,Yes,Non-localizing,No,Not performed,No,Not performed,3,2,Lesionectomy,III
+SYN-0197,Male,34,Adult,16,18,2.4,Temporal,Left,Focal cortical dysplasia,Yes,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,Yes,Non-localizing,3,2,Temporal resection,I
+SYN-0198,Male,8,Pediatric,4,4,1.5,Temporal,Right,Vascular malformation,Yes,Yes,Concordant,Yes,Concordant,Yes,Concordant,Yes,Concordant,No,Not performed,4,4,Lesionectomy,I
+SYN-0199,Female,2,Pediatric,1,1,4.4,Temporal,Right,Low-grade tumor,Yes,No,Concordant,Yes,Concordant,Yes,Concordant,No,Not performed,Yes,Concordant,4,4,Temporal resection,I
+SYN-0200,Male,34,Adult,9,25,15.3,Temporal,Left,Hippocampal sclerosis,Yes,Yes,Concordant,No,Not performed,Yes,Non-localizing,No,Not performed,No,Not performed,2,1,Temporal resection,I
+SYN-0201,Male,32,Adult,14,18,7.4,Temporal,Right,Hippocampal sclerosis,Yes,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,No,Not performed,2,2,Temporal resection,I
+SYN-0202,Male,38,Adult,24,14,9.7,Parietal/occipital,Right,Low-grade tumor,Yes,Yes,Concordant,Yes,Concordant,No,Not performed,Yes,Concordant,No,Not performed,3,3,Extratemporal resection,I
+SYN-0203,Female,45,Adult,7,38,1.7,Temporal,Right,No definitive pathology,Yes,No,Non-localizing,Yes,Non-localizing,Yes,Concordant,No,Not performed,Yes,Concordant,4,2,Temporal resection,II
+SYN-0204,Female,30,Adult,15,15,3.6,Parietal/occipital,Right,Focal cortical dysplasia,Yes,Yes,Non-localizing,Yes,Concordant,Yes,Non-localizing,Yes,Discordant,No,Not performed,4,1,Extratemporal resection,I
+SYN-0205,Female,55,Adult,22,33,1.9,Hemispheric/multilobar,Left,Focal cortical dysplasia,Yes,No,Non-localizing,Yes,Concordant,No,Not performed,No,Not performed,No,Not performed,2,1,Lesionectomy,II
+SYN-0206,Male,68,Adult,33,35,4.0,Parietal/occipital,Left,Focal cortical dysplasia,Yes,No,Non-localizing,Yes,Concordant,Yes,Non-localizing,Yes,Discordant,Yes,Concordant,5,2,Extratemporal resection,I
+SYN-0207,Female,8,Pediatric,7,1,1.3,Temporal,Left,Focal cortical dysplasia,Yes,No,Non-localizing,Yes,Concordant,Yes,Non-localizing,Yes,Non-localizing,No,Not performed,4,1,Lesionectomy,II
+SYN-0208,Male,44,Adult,14,30,1.4,Temporal,Right,Gliosis/other,Yes,No,Non-localizing,Yes,Concordant,No,Not performed,No,Not performed,Yes,Concordant,3,2,Temporal resection,II
+SYN-0209,Female,33,Adult,20,13,5.4,Frontal,Left,Focal cortical dysplasia,Yes,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,Yes,Non-localizing,3,2,Lesionectomy,II
+SYN-0210,Male,36,Adult,39,22,4.0,Frontal,Left,Vascular malformation,Yes,Yes,Concordant,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,3,3,Lesionectomy,I
+SYN-0211,Male,38,Adult,6,32,2.0,Parietal/occipital,Right,Low-grade tumor,Yes,Yes,Concordant,Yes,Non-localizing,Yes,Non-localizing,Yes,Concordant,No,Not performed,4,2,Laser ablation,I
+SYN-0212,Female,7,Pediatric,6,1,3.8,Temporal,Right,Low-grade tumor,Yes,Yes,Non-localizing,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,3,2,Lesionectomy,I
+SYN-0213,Male,20,Adult,10,10,3.8,Frontal,Left,Focal cortical dysplasia,Yes,No,Non-localizing,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,3,2,Lesionectomy,I
+SYN-0214,Female,39,Adult,34,5,3.3,Frontal,Left,Focal cortical dysplasia,Yes,Yes,Non-localizing,Yes,Concordant,No,Not performed,Yes,Concordant,No,Not performed,3,2,Extratemporal resection,I
+SYN-0215,Male,55,Adult,5,50,2.7,Hemispheric/multilobar,Right,Vascular malformation,Yes,Yes,Concordant,Yes,Non-localizing,No,Not performed,No,Not performed,Yes,Non-localizing,3,1,Extratemporal resection,I
+SYN-0216,Female,56,Adult,43,13,3.5,Temporal,Left,Gliosis/other,Yes,No,Non-localizing,Yes,Non-localizing,Yes,Non-localizing,Yes,Discordant,Yes,Concordant,5,1,Temporal resection,III
+SYN-0217,Male,17,Pediatric,16,1,8.0,Hemispheric/multilobar,Bilateral,Focal cortical dysplasia,Yes,Yes,Concordant,Yes,Non-localizing,Yes,Concordant,Yes,Concordant,No,Not performed,4,3,Hemispherotomy,I
+SYN-0218,Female,24,Adult,9,15,4.2,Temporal,Right,Focal cortical dysplasia,Yes,Yes,Concordant,Yes,Discordant,Yes,Non-localizing,Yes,Concordant,Yes,Discordant,5,2,Temporal resection,I
+SYN-0219,Female,55,Adult,36,19,5.2,Temporal,Right,Hippocampal sclerosis,Yes,Yes,Concordant,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,3,3,Temporal resection,I
+SYN-0220,Male,33,Adult,9,24,2.1,Temporal,Left,Focal cortical dysplasia,Yes,No,Discordant,Yes,Concordant,Yes,Concordant,Yes,Non-localizing,No,Not performed,4,2,Temporal resection,II
+SYN-0221,Male,31,Adult,17,14,1.8,Frontal,Right,Focal cortical dysplasia,Yes,Yes,Concordant,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,3,3,Lesionectomy,I
+SYN-0222,Female,50,Adult,14,36,7.0,Frontal,Right,Focal cortical dysplasia,Yes,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,No,Not performed,2,2,Lesionectomy,I
+SYN-0223,Female,32,Adult,22,10,4.5,Temporal,Right,Gliosis/other,Yes,No,Concordant,Yes,Non-localizing,Yes,Non-localizing,No,Not performed,No,Not performed,3,1,Temporal resection,II
+SYN-0224,Male,19,Adult,5,14,1.4,Parietal/occipital,Left,Focal cortical dysplasia,Yes,Yes,Concordant,Yes,Non-localizing,Yes,Discordant,Yes,Concordant,No,Not performed,4,2,Extratemporal resection,III
+SYN-0225,Female,75,Adult,26,49,2.3,Temporal,Left,No definitive pathology,Yes,Yes,Concordant,Yes,Non-localizing,Yes,Discordant,No,Not performed,Yes,Non-localizing,4,1,Temporal resection,II
+SYN-0226,Male,67,Adult,39,28,2.8,Temporal,Left,Focal cortical dysplasia,Yes,No,Non-localizing,Yes,Concordant,No,Not performed,No,Not performed,No,Not performed,2,1,Lesionectomy,II
+SYN-0227,Male,23,Adult,12,11,2.7,Temporal,Left,Hippocampal sclerosis,Yes,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,No,Not performed,2,2,Temporal resection,I
+SYN-0228,Female,28,Adult,14,14,6.5,Temporal,Left,Hippocampal sclerosis,Yes,No,Concordant,Yes,Concordant,Yes,Concordant,No,Not performed,Yes,Discordant,4,3,Laser ablation,I
+SYN-0229,Female,21,Adult,19,2,1.7,Hemispheric/multilobar,Left,Gliosis/other,Yes,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,No,Not performed,2,2,Extratemporal resection,I
+SYN-0230,Female,54,Adult,24,30,6.2,Temporal,Left,Focal cortical dysplasia,Yes,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,No,Not performed,2,2,Lesionectomy,I
+SYN-0231,Female,31,Adult,8,23,6.4,Frontal,Left,Focal cortical dysplasia,Yes,Yes,Concordant,Yes,Discordant,Yes,Discordant,Yes,Non-localizing,No,Not performed,4,1,Lesionectomy,III
+SYN-0232,Male,3,Pediatric,2,1,2.0,Frontal,Left,Focal cortical dysplasia,Yes,Yes,Discordant,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,3,2,Lesionectomy,II
+SYN-0233,Female,37,Adult,12,25,5.0,Temporal,Left,No definitive pathology,Yes,Yes,Concordant,Yes,Concordant,Yes,Concordant,Yes,Concordant,No,Not performed,4,4,Temporal resection,I
+SYN-0234,Female,40,Adult,26,14,12.3,Parietal/occipital,Left,Gliosis/other,Yes,Yes,Discordant,Yes,Concordant,No,Not performed,No,Not performed,No,Not performed,2,1,Extratemporal resection,I
+SYN-0235,Female,41,Adult,11,30,8.0,Parietal/occipital,Right,Focal cortical dysplasia,Yes,No,Non-localizing,Yes,Non-localizing,Yes,Concordant,No,Not performed,Yes,Concordant,4,2,Lesionectomy,I
+SYN-0236,Male,52,Adult,13,39,1.7,Temporal,Right,Hippocampal sclerosis,Yes,Yes,Concordant,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,3,3,Laser ablation,I
+SYN-0237,Male,33,Adult,13,20,3.4,Frontal,Left,Vascular malformation,Yes,Yes,Concordant,Yes,Concordant,No,Not performed,Yes,Concordant,No,Not performed,3,3,Extratemporal resection,I
+SYN-0238,Female,43,Adult,10,33,4.6,Parietal/occipital,Left,Gliosis/other,Yes,Yes,Non-localizing,Yes,Non-localizing,Yes,Discordant,No,Not performed,No,Not performed,3,0,Lesionectomy,I
+SYN-0239,Male,36,Adult,13,23,6.4,Temporal,Left,Gliosis/other,Yes,No,Non-localizing,Yes,Concordant,Yes,Concordant,Yes,Concordant,Yes,Non-localizing,5,3,Temporal resection,I
+SYN-0240,Female,34,Adult,21,13,5.4,Temporal,Right,Hippocampal sclerosis,Yes,Yes,Concordant,Yes,Non-localizing,Yes,Concordant,Yes,Concordant,No,Not performed,4,3,Temporal resection,I
+SYN-0241,Female,11,Pediatric,9,2,4.8,Temporal,Right,No definitive pathology,Yes,No,Discordant,Yes,Non-localizing,Yes,Non-localizing,Yes,Non-localizing,Yes,Discordant,5,0,Temporal resection,III
+SYN-0242,Male,12,Pediatric,7,5,22.4,Temporal,Right,Gliosis/other,Yes,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,No,Not performed,2,2,Temporal resection,II
+SYN-0243,Male,30,Adult,3,27,4.1,Temporal,Right,Focal cortical dysplasia,Yes,Yes,Concordant,Yes,Concordant,No,Not performed,Yes,Discordant,No,Not performed,3,2,Lesionectomy,I
+SYN-0244,Female,43,Adult,26,17,3.2,Frontal,Left,Focal cortical dysplasia,Yes,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,No,Not performed,2,2,Lesionectomy,I
+SYN-0245,Female,9,Pediatric,3,6,,Parietal/occipital,Left,Focal cortical dysplasia,Yes,Yes,Concordant,Yes,Non-localizing,No,Not performed,Yes,Non-localizing,No,Not performed,3,1,Extratemporal resection,III
+SYN-0246,Female,53,Adult,42,11,7.7,Temporal,Left,Vascular malformation,Yes,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,No,Not performed,2,2,Lesionectomy,III
+SYN-0247,Female,62,Adult,7,55,2.2,Temporal,Right,No definitive pathology,Yes,No,Discordant,Yes,Concordant,No,Not performed,No,Not performed,Yes,Concordant,3,2,Laser ablation,II
+SYN-0248,Male,4,Pediatric,2,2,1.7,Parietal/occipital,Left,No definitive pathology,Yes,No,Discordant,Yes,Concordant,Yes,Concordant,Yes,Concordant,Yes,Concordant,5,4,Extratemporal resection,II
+SYN-0249,Female,34,Adult,9,25,7.4,Frontal,Right,Focal cortical dysplasia,Yes,Yes,Concordant,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,3,3,Extratemporal resection,I
+SYN-0250,Male,62,Adult,8,54,1.2,Frontal,Right,Gliosis/other,Yes,No,Concordant,Yes,Non-localizing,Yes,Non-localizing,No,Not performed,Yes,Concordant,4,2,Extratemporal resection,I
+SYN-0251,Female,7,Pediatric,0,7,6.0,Temporal,Left,No definitive pathology,No,Not performed,Not performed,Yes,Discordant,No,Not performed,No,Not performed,Yes,Non-localizing,2,0,Temporal resection,IV
+SYN-0252,Male,21,Adult,9,12,6.4,Temporal,Right,Focal cortical dysplasia,Yes,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,No,Not performed,2,2,Lesionectomy,I
+SYN-0253,Female,17,Pediatric,3,14,2.8,Hemispheric/multilobar,Right,Focal cortical dysplasia,Yes,Yes,Concordant,Yes,Discordant,Yes,Discordant,Yes,Concordant,No,Not performed,4,2,Hemispherotomy,I
+SYN-0254,Male,40,Adult,12,28,3.5,Temporal,Right,No definitive pathology,Yes,Yes,Concordant,Yes,Non-localizing,Yes,Concordant,No,Not performed,No,Not performed,3,2,Temporal resection,II
+SYN-0255,Female,61,Adult,25,36,3.2,Temporal,Bilateral,Low-grade tumor,Yes,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,No,Not performed,2,2,Lesionectomy,IV
+SYN-0256,Male,25,Adult,12,13,,Temporal,Left,Focal cortical dysplasia,Yes,Yes,Non-localizing,Yes,Concordant,No,Not performed,Yes,Concordant,No,Not performed,3,2,Laser ablation,III
+SYN-0257,Female,21,Adult,10,11,4.5,Hemispheric/multilobar,Bilateral,Focal cortical dysplasia,Yes,No,Discordant,Yes,Non-localizing,Yes,Concordant,No,Not performed,Yes,Concordant,4,2,Laser ablation,IV
+SYN-0258,Male,4,Pediatric,2,2,6.6,Frontal,Right,Vascular malformation,Yes,Yes,Concordant,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,3,3,Lesionectomy,I
+SYN-0259,Female,73,Adult,37,36,4.4,Parietal/occipital,Right,Focal cortical dysplasia,Yes,Yes,Concordant,Yes,Non-localizing,Yes,Non-localizing,No,Not performed,No,Not performed,3,1,Lesionectomy,IV
+SYN-0260,Male,36,Adult,1,35,11.4,Hemispheric/multilobar,Left,Focal cortical dysplasia,Yes,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,No,Not performed,2,2,Lesionectomy,I
+SYN-0261,Female,50,Adult,19,31,1.4,Temporal,Right,Gliosis/other,Yes,No,Discordant,Yes,Concordant,No,Not performed,No,Not performed,No,Not performed,2,1,Laser ablation,I
+SYN-0262,Male,69,Adult,9,60,2.8,Frontal,Right,Gliosis/other,Yes,No,Concordant,Yes,Non-localizing,Yes,Concordant,Yes,Concordant,No,Not performed,4,3,Lesionectomy,IV
+SYN-0263,Male,72,Adult,34,38,2.2,Frontal,Right,Focal cortical dysplasia,Yes,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,No,Not performed,2,2,Lesionectomy,I
+SYN-0264,Female,26,Adult,10,16,1.3,Temporal,Left,Hippocampal sclerosis,Yes,Yes,Concordant,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,3,3,Temporal resection,I
+SYN-0265,Male,74,Adult,10,64,2.5,Frontal,Right,Focal cortical dysplasia,Yes,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,No,Not performed,2,2,Extratemporal resection,III
+SYN-0266,Male,75,Adult,40,35,7.2,Parietal/occipital,Left,Gliosis/other,Yes,No,Non-localizing,Yes,Concordant,No,Not performed,Yes,Discordant,Yes,Concordant,4,2,Extratemporal resection,I
+SYN-0267,Female,55,Adult,31,24,2.4,Temporal,Left,Low-grade tumor,Yes,Yes,Concordant,Yes,Concordant,Yes,Non-localizing,No,Not performed,No,Not performed,3,2,Lesionectomy,I
+SYN-0268,Male,45,Adult,7,38,4.3,Parietal/occipital,Left,Focal cortical dysplasia,Yes,Yes,Concordant,Yes,Discordant,Yes,Non-localizing,No,Not performed,No,Not performed,3,1,Lesionectomy,IV
+SYN-0269,Male,30,Adult,3,27,2.4,Temporal,Right,Hippocampal sclerosis,Yes,Yes,Concordant,Yes,Non-localizing,Yes,Concordant,No,Not performed,No,Not performed,3,2,Temporal resection,I
+SYN-0270,Female,14,Pediatric,9,5,8.0,Hemispheric/multilobar,Right,Vascular malformation,Yes,No,Concordant,Yes,Discordant,Yes,Concordant,Yes,Concordant,Yes,Discordant,5,3,Hemispherotomy,II
+SYN-0271,Female,21,Adult,10,11,7.7,Hemispheric/multilobar,Left,Gliosis/other,Yes,No,Non-localizing,Yes,Discordant,No,Not performed,Yes,Concordant,Yes,Concordant,4,2,Extratemporal resection,III
+SYN-0272,Female,26,Adult,12,14,3.9,Temporal,Left,Focal cortical dysplasia,Yes,Yes,Concordant,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,3,3,Lesionectomy,IV
+SYN-0273,Male,18,Adult,3,15,3.6,Frontal,Right,Focal cortical dysplasia,Yes,Yes,Concordant,Yes,Non-localizing,Yes,Concordant,No,Not performed,No,Not performed,3,2,Lesionectomy,I
+SYN-0274,Female,38,Adult,20,18,3.7,Temporal,Left,Hippocampal sclerosis,Yes,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,Yes,Concordant,3,3,Temporal resection,I
+SYN-0275,Female,5,Pediatric,3,2,6.0,Parietal/occipital,Left,Focal cortical dysplasia,Yes,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,No,Not performed,2,2,Lesionectomy,II
+SYN-0276,Male,4,Pediatric,2,2,2.2,Temporal,Bilateral,Focal cortical dysplasia,Yes,Yes,Non-localizing,Yes,Concordant,Yes,Concordant,Yes,Concordant,No,Not performed,4,3,Lesionectomy,I
+SYN-0277,Male,14,Pediatric,12,2,3.9,Hemispheric/multilobar,Right,Gliosis/other,Yes,No,Concordant,Yes,Concordant,No,Not performed,No,Not performed,No,Not performed,2,2,Hemispherotomy,I
+SYN-0278,Male,75,Adult,30,45,26.8,Hemispheric/multilobar,Left,Focal cortical dysplasia,Yes,No,Concordant,Yes,Concordant,Yes,Non-localizing,No,Not performed,Yes,Non-localizing,4,2,Extratemporal resection,I
+SYN-0279,Male,5,Pediatric,1,4,,Temporal,Right,No definitive pathology,Yes,Yes,Concordant,Yes,Non-localizing,Yes,Concordant,No,Not performed,No,Not performed,3,2,Temporal resection,II
+SYN-0280,Male,19,Adult,9,10,2.6,Temporal,Right,Hippocampal sclerosis,Yes,No,Concordant,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,3,3,Laser ablation,I
+SYN-0281,Female,38,Adult,14,24,7.3,Temporal,Right,Hippocampal sclerosis,Yes,Yes,Concordant,Yes,Non-localizing,No,Not performed,No,Not performed,Yes,Concordant,3,2,Temporal resection,I
+SYN-0282,Female,21,Adult,16,5,2.0,Temporal,Right,Hippocampal sclerosis,Yes,Yes,Concordant,Yes,Concordant,Yes,Non-localizing,Yes,Concordant,No,Not performed,4,3,Temporal resection,I
+SYN-0283,Male,18,Adult,9,9,5.1,Temporal,Left,Focal cortical dysplasia,Yes,Yes,Concordant,Yes,Discordant,Yes,Concordant,No,Not performed,No,Not performed,3,2,Temporal resection,II
+SYN-0284,Male,16,Pediatric,10,6,3.0,Temporal,Right,Focal cortical dysplasia,Yes,Yes,Concordant,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,3,3,Lesionectomy,I
+SYN-0285,Male,39,Adult,22,17,0.9,Temporal,Left,Focal cortical dysplasia,Yes,Yes,Concordant,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,3,3,Laser ablation,III
+SYN-0286,Male,75,Adult,32,43,1.4,Temporal,Right,No definitive pathology,Yes,No,Discordant,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,3,2,Temporal resection,I
+SYN-0287,Male,50,Adult,22,28,9.9,Hemispheric/multilobar,Right,Focal cortical dysplasia,Yes,Yes,Discordant,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,3,2,Lesionectomy,I
+SYN-0288,Female,20,Adult,10,10,4.7,Temporal,Left,Low-grade tumor,Yes,No,Non-localizing,Yes,Non-localizing,Yes,Concordant,Yes,Concordant,No,Not performed,4,2,Lesionectomy,IV
+SYN-0289,Female,13,Pediatric,12,1,1.4,Temporal,Bilateral,Gliosis/other,Yes,No,Discordant,Yes,Discordant,Yes,Concordant,Yes,Concordant,No,Not performed,4,2,Temporal resection,I
+SYN-0290,Female,20,Adult,3,17,2.2,Parietal/occipital,Right,No definitive pathology,Yes,Yes,Discordant,Yes,Non-localizing,Yes,Concordant,Yes,Concordant,Yes,Concordant,5,3,Extratemporal resection,I
+SYN-0291,Female,71,Adult,62,9,3.4,Temporal,Left,Hippocampal sclerosis,Yes,Yes,Concordant,Yes,Concordant,Yes,Discordant,No,Not performed,No,Not performed,3,2,Temporal resection,I
+SYN-0292,Female,18,Adult,1,17,4.5,Frontal,Bilateral,Gliosis/other,Yes,No,Concordant,Yes,Concordant,Yes,Concordant,Yes,Concordant,No,Not performed,4,4,Lesionectomy,II
+SYN-0293,Male,17,Pediatric,11,6,2.6,Frontal,Left,Gliosis/other,Yes,Yes,Non-localizing,Yes,Concordant,No,Not performed,Yes,Concordant,No,Not performed,3,2,Extratemporal resection,I
+SYN-0294,Male,26,Adult,8,18,2.8,Temporal,Right,Low-grade tumor,Yes,Yes,Concordant,Yes,Non-localizing,Yes,Concordant,No,Not performed,No,Not performed,3,2,Lesionectomy,I
+SYN-0295,Female,32,Adult,6,26,0.4,Temporal,Left,Focal cortical dysplasia,Yes,Yes,Concordant,Yes,Concordant,No,Not performed,Yes,Discordant,No,Not performed,3,2,Temporal resection,I
+SYN-0296,Male,25,Adult,4,21,2.8,Temporal,Right,Hippocampal sclerosis,Yes,Yes,Concordant,Yes,Non-localizing,Yes,Concordant,No,Not performed,No,Not performed,3,2,Temporal resection,I
+SYN-0297,Female,22,Adult,13,9,5.1,Parietal/occipital,Left,Focal cortical dysplasia,Yes,Yes,Non-localizing,Yes,Non-localizing,No,Not performed,No,Not performed,No,Not performed,2,0,Lesionectomy,I
+SYN-0298,Male,13,Pediatric,2,11,1.8,Temporal,Left,Low-grade tumor,Yes,Yes,Concordant,Yes,Concordant,Yes,Non-localizing,No,Not performed,No,Not performed,3,2,Temporal resection,I
+SYN-0299,Female,15,Pediatric,7,8,1.7,Frontal,Right,Focal cortical dysplasia,Yes,No,Non-localizing,Yes,Non-localizing,Yes,Concordant,Yes,Non-localizing,No,Not performed,4,1,Extratemporal resection,I
+SYN-0300,Female,36,Adult,16,20,2.8,Temporal,Right,Low-grade tumor,Yes,Yes,Concordant,Yes,Concordant,No,Not performed,Yes,Concordant,Yes,Concordant,4,4,Lesionectomy,I
+SYN-0186,Female,53,Adult,33,20,8.6,Temporal,Left,Hippocampal sclerosis,Yes,Yes,Concordant,Yes,Concordant,Yes,Concordant,No,Not performed,No,Not performed,3,3,Temporal resection,IV
+SYN-0069,Male,4,Pediatric,0,4,11.7,Hemispheric/multilobar,Bilateral,Focal cortical dysplasia,Yes,Yes,Discordant,Yes,Discordant,No,Not performed,No,Not performed,Yes,Non-localizing,3,0,Hemispherotomy,I

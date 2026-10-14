@@ -1,0 +1,26 @@
+variablename,type,unit_or_labels,description
+patient_id,identifier,,Synthetic patient identifier; duplicates indicate duplicated records.
+sex,categorical,Female; Male,Simulated sex category.
+age_at_surgery_years,integer,years,Age at epilepsy surgery.
+age_group,categorical,Pediatric; Adult,Derived from age at surgery using <18 years as pediatric.
+age_at_epilepsy_onset_years,integer,years,Age at first epilepsy onset.
+epilepsy_duration_years,integer,years,Age at surgery minus age at onset before deliberate raw-data issues are added.
+monthly_seizure_frequency,numeric,seizures/month,Approximate preoperative monthly seizure frequency.
+epilepsy_localization,categorical,Temporal; Frontal; Parietal/occipital; Hemispheric/multilobar,Primary presurgical localization category.
+laterality,categorical,Left; Right; Bilateral,Primary lateralization category.
+pathology,categorical,Hippocampal sclerosis; Focal cortical dysplasia; Low-grade tumor; Vascular malformation; Gliosis/other; No definitive pathology,Simulated postoperative pathology category.
+mri_performed,categorical,Yes; No,Whether MRI was performed.
+mri_lesion_detected,categorical,Yes; No; Not performed,Whether a potentially relevant lesion was detected.
+mri_localization_result,categorical,Concordant; Discordant; Non-localizing; Not performed,MRI localization relative to the eventual surgical target.
+scalp_eeg_performed,categorical,Yes; No,Whether scalp EEG was performed.
+scalp_eeg_localization_result,categorical,Concordant; Discordant; Non-localizing; Not performed,Scalp EEG localization relative to the eventual surgical target.
+pet_performed,categorical,Yes; No,Whether PET was performed; more likely when noninvasive results are uncertain.
+pet_localization_result,categorical,Concordant; Discordant; Non-localizing; Not performed,PET localization relative to the eventual surgical target.
+meg_performed,categorical,Yes; No,Whether MEG was performed; more likely in pediatric or uncertain cases.
+meg_localization_result,categorical,Concordant; Discordant; Non-localizing; Not performed,MEG localization relative to the eventual surgical target.
+intracranial_eeg_performed,categorical,Yes; No,Whether intracranial EEG was performed; more likely in uncertain or discordant cases.
+intracranial_eeg_localization_result,categorical,Concordant; Discordant; Non-localizing; Not performed,Intracranial EEG localization relative to the eventual surgical target.
+modalities_performed_count,integer,count,"Number of MRI, scalp EEG, PET, MEG, and intracranial EEG investigations performed."
+multimodal_concordance_count,integer,count,Number of performed modalities with a concordant localization result before deliberate missingness is added.
+surgery_type,categorical,Temporal resection; Extratemporal resection; Lesionectomy; Laser ablation; Hemispherotomy,Simulated surgical procedure.
+engel_outcome_1yr,ordinal,I; II; III; IV,One-year Engel class: I free of disabling seizures; II rare disabling seizures; III worthwhile improvement; IV no worthwhile improvement.
