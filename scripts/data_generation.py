@@ -440,7 +440,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--output-dir",
         type=Path,
-        default=Path(__file__).resolve().parent,
+        default=Path(__file__).resolve().parent.parent / "data",
         help="Directory for generated CSV files",
     )
     return parser.parse_args()
